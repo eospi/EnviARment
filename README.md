@@ -1,6 +1,6 @@
 # EnviARment
 ![Mav World](mavworld.png)
-## See the [cover letter](../blob/master/cover-letter.pdf) for details
+## See the [cover letter](../master/cover-letter.pdf) for details
 ### Links to previous work
 [Augmented Reality - Mav World & Pi AR](https://www.ethansaadia.com/augmented-reality)
 
